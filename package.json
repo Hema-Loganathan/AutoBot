@@ -1,0 +1,18 @@
+{
+  "name": "autobot",
+  "version": "1.0.0",
+  "description": "Data Driven Protractor Framework",
+  "main": "_pageObject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hema Pala Loganathan",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.3.0",
+    "protractor": "^5.3.1",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "underscore": "^1.9.0",
+    "xlsx-to-json": "^0.3.0"
+  }
+}
