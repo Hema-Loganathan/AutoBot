@@ -80,6 +80,6 @@ element will be the corresponding id,css,xpath,name of the element i.e. element 
 value will be the value you use to either enter into textfields, url value or to compare something on the webpage.
 
 ### Authors
-
+* **Dinesh Gudibandi** - *Software Engineer* - [@AMEX](https://www.americanexpress.com/)
 * **Hema Pala Loganathan** - *Quality Engineer* - [@PrimitiveLogic](https://www.primitivelogic.com/)
 
